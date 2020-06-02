@@ -1,5 +1,5 @@
 {
- '"employees" : [
+ "employees" : [
    {"name" : "Angelina Teresa", "role" : "Software Engineer", "mail" : "angelinateresa@gmail.com", "jl":3 },
    {"name" : "Ashna Francis", "role" : "Software Engineer", "mail" : "ashnafrancis@gmail.com", "jl":3  },
    {"name" : "Aleeda Maria ", "role" : "Software Engineer", "mail" : "aleedamaria@gmail.com", "jl":3  },
