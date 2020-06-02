@@ -1,46 +1,15 @@
-
-  "employees": [
-    {
-      "name": "Angelina Teresa",
-      "role": "Software Engineer",
-      "mail": "angelinateresa@gmail.com",
-      "jl": 3
-    },
-    {
-      "name": "Ashna Francis",
-      "role": "Software Engineer",
-      "mail": "ashnafrancis@gmail.com",
-      "jl": 3
-    },
-    {
-      "name": "Aleeda Maria ",
-      "role": "Software Engineer",
-      "mail": "aleedamaria@gmail.com",
-      "jl": 3
-    },
-    {
-      "name": "Abraham George ",
-      "role": "Seniro Software Engineer",
-      "mail": "abrahamgeorge@gmail.com",
-      "jl": 4
-    },
-    {
-      "name": "George Joseph",
-      "role": "Test Engineer",
-      "mail": "georgejoseph@gmail.com",
-      "jl": 3
-    },
-    {
-      "name": "Alanna Nicholas ",
-      "role": "Manager ",
-      "mail": "angelinateresa@gmail.com",
-      "jl": 5
-    },
-    {
-      "name": "George Kevin ",
-      "role": " UI Develepor",
-      "mail": "angelinateresa@gmail.com",
-      "jl": 4
-    }
-  ]
-
+  
+{
+  "user1": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
