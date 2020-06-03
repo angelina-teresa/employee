@@ -1,9 +1,9 @@
 {
   "employees": [
     {
-      "name": "Angelina Teresa",
+      "name": "Maria Sunny",
       "role": "Software Engineer",
-      "mail": "angelinateresa@gmail.com",
+      "mail": "mariasunny@gmail.com",
       "jl": 3
     },
     {
@@ -41,6 +41,36 @@
       "role": " UI Develepor",
       "mail": "angelinateresa@gmail.com",
       "jl": 4
+    },
+      {
+      "name": "Edwin Thomas",
+      "role": "Senior Software Engineer",
+      "mail": "edwinthomas@gmail.com",
+      "jl": 4
+    },
+      {
+      "name": "Joshua Thomas",
+      "role": "Project Manager ",
+      "mail": "josuathomas@gmail.com",
+      "jl": 5
+    },
+      {
+      "name": "Riya Martin",
+      "role": "Business Analyst",
+      "mail": "riyamartin@gmail.com",
+      "jl": 6
+    },
+      {
+      "name": "Kate Katherin",
+      "role": "IT Director",
+      "mail": "katekatherine@gmail.com",
+      "jl": 7
+    },
+      {
+      "name": "Allison Lewis",
+      "role": "Systems Engineering Manager",
+      "mail": "allisonlewis@gmail.com",
+      "jl": 6
     }
   ]
 }
